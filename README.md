@@ -1,5 +1,6 @@
-#### King of Snakes
-Full Stack Online Matching Game Platform (Independent) July 2022 – Oct 2022 Created a Full-Stack snake game platform for users to paly manually or write AI code for automatic control.
+### King of Snakes
+Full Stack Online Matching Game Platform (Independent) July 2022 – Oct 2022 
+Created a Full-Stack snake game platform for users to paly manually or write AI code for automatic control.
 - Built a Full-Stack game application based on SpringBoot Framework and Vue3.
 - Created Backend service to realize user authorization using JSON Web Token (JWT) and generation
 of legal game map.
